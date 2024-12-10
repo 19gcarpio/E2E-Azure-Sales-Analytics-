@@ -127,9 +127,9 @@ This project demonstrates a **robust, end-to-end Azure data pipeline** that tran
 ---
 
 Feel free to reach out with questions or suggestions! 😊  
-👤 **Created by [Your Name]**
+👤 **Created by Gabriel Carpio**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile) [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)](https://www.linkedin.com/in/gabriel-carpio/)
 
 --- 
 
