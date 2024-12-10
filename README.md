@@ -53,7 +53,8 @@ The project leverages Azure’s robust suite of services to implement an end-to-
 4. **Visualization**: Present insights through an interactive Power BI dashboard.
 5. **Automation**: Schedule daily pipeline runs to ensure data is up-to-date.
    
-![image](https://github.com/user-attachments/assets/36bbd38d-964d-4255-91a4-87d45d9bba74)
+![image](https://github.com/user-attachments/assets/f5462844-e525-47ff-ab79-dcfc558128d3)
+
 
 
 ---
