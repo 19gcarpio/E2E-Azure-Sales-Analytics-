@@ -162,7 +162,7 @@ This pipeline exemplifies the **modern data stack** and its role in:
 
 ## 🖇️ **Connect With Me**
 - 👤 **Gabriel Carpio**
-- 🔗 [[LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gabriel-carpio/))](https://www.linkedin.com/in/gabriel-carpio/)
+- 🔗 https://www.linkedin.com/in/gabriel-carpio/
 
 
 ---
