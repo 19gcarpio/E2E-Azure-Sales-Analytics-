@@ -69,7 +69,7 @@ The project leverages Azure’s robust suite of services to implement an end-to-
 | **Azure Synapse Analytics** | Data warehousing and SQL-based analytics.                     | Combines data warehousing and analytics for high-performance querying and reporting.                   |
 | **Power BI**                | Data visualization and dashboard creation.                     | Translates raw data into actionable insights for stakeholders.                                         |
 | **Azure Key Vault**         | Secure management of secrets and credentials.                  | Ensures compliance and security when handling sensitive data like connection strings and passwords.    |
-| **SQL Server (On-Premises)**| Acts as the source of raw customer and sales data.             | Represents real-world scenarios where legacy systems coexist with modern cloud technologies.           |
+| **Azure SQL DB**| Acts as the source of raw customer and sales data.             | Represents real-world scenarios where legacy systems coexist with modern cloud technologies.           |
 
 ---
 
