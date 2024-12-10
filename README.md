@@ -2,7 +2,7 @@
 
 ---
 
-# 🌐 **Azure End-to-End Data Engineering Pipeline**
+# 🌐 **Azure End-to-End Data Engineering & Analytics Pipeline**
 
 This repository presents a **comprehensive, professional-grade data engineering solution** built on Microsoft Azure. Designed to solve a realistic business problem, this project demonstrates advanced data engineering workflows, scalable architecture, and actionable insights via an interactive Power BI dashboard.
 
